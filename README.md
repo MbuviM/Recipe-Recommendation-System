@@ -1,5 +1,5 @@
 # Recipe-Recommendation-System
-Recipe recommendation system is an AI application that allows users to upload ingredients in CSV or PDF format and it helps them decide what meal to cook. The Recipe Recommendation System transforms the user's scattered, unstructured recipe collection into a powerful, interactive resource. It not only helps with searching and finding recipes but also offers personalized recommendations, ingredient-based suggestions, and recipe modifications that make the system useful beyond merely storing information.
+Recipe recommendation system is an AI application that helps users decide what meal to cook according to the ingredients they have at the moment. It offers personalized recommendations, ingredient-based suggestions, and recipe modifications that make the system useful beyond merely storing information.
 
 # Tools and Frameworks
 * HTML, CSS, JS - Frontend
