@@ -10,11 +10,13 @@ Recipe recommendation system is an AI application that allows users to upload in
 # How to run the project locally
 
 ## Clone the Repository
-    git clone `https://github.com/MbuviM/Recipe-Recommendation-System.git`
+    git clone https://github.com/MbuviM/Recipe-Recommendation-System.git
 
 ## Create a virtual environment
 `pip install virtualenv` install the virtual environment package
+
 `virtualenv .venv` create a virtual environment `.venv`
+
 `.venv/Scripts/activate` activate the virtual environment.
 
 ## Run the HTML File
